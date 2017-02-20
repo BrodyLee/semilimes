@@ -63,7 +63,7 @@ border-bottom-color: rgba(0,0,0,0.1) !important;
   justify-content: center;
   align-items: center;
   float: left;
-  background: url("/images/confirmation_bg.jpg") no-repeat;
+  background: url("../images/confirmation_bg.jpg") no-repeat;
   background-position: 0;
   background-size: 120% 105%;
 
@@ -231,7 +231,7 @@ border-bottom-color: rgba(0,0,0,0.1) !important;
     }
 
     .sm_letter-ico {
-      background: url("/images/confirm-letter-form.png") no-repeat;
+      background: url("../images/confirm-letter-form.png") no-repeat;
       width: 17px;
       height: 15px;
       margin-left: -30px;
@@ -247,7 +247,7 @@ border-bottom-color: rgba(0,0,0,0.1) !important;
     }
 
     .confirm-letter-ico {
-      background: url("/images/cofirm-letter.png") no-repeat;
+      background: url("../images/cofirm-letter.png") no-repeat;
       width: 33px;
       height: 27px;
       display: block;
@@ -308,16 +308,16 @@ border-bottom-color: rgba(0,0,0,0.1) !important;
       }
     }
     .twitter-ico {
-      background: url("/images/confirm-twitter.png") no-repeat;
+      background: url("../images/confirm-twitter.png") no-repeat;
     }
     .fb-ico {
-      background: url("/images/confirm-fb.png") no-repeat;
+      background: url("../images/confirm-fb.png") no-repeat;
     }
     .youtube-ico {
-      background: url("/images/confirm-youtube.png") no-repeat;
+      background: url("../images/confirm-youtube.png") no-repeat;
     }
     .g_plus-ico {
-      background: url("/images/confirm-g_plus.png") no-repeat;
+      background: url("../images/confirm-g_plus.png") no-repeat;
     }
     @media (max-width: 920px) {
       margin-left: 15px;
@@ -375,16 +375,16 @@ footer {
     }
   }
   .twitter-foot {
-    background: url("/images/tw-footer.png") no-repeat;
+    background: url("../images/tw-footer.png") no-repeat;
   }
   .fb-foot {
-    background: url("/images/fb-footer.png");
+    background: url("../images/fb-footer.png");
   }
   .youtube-foot {
-    background: url("/images/youtube-footer.png");
+    background: url("../images/youtube-footer.png");
   }
   .g-plus-foot {
-    background: url("/images/g-plus-footer.png");
+    background: url("../images/g-plus-footer.png");
   }
 }
 
@@ -416,7 +416,7 @@ footer {
   font-weight: 500;
 }
 .dropdown-nav-right-ico {
-  background: url("/images/dropdown-arrow.png") no-repeat;
+  background: url("../images/dropdown-arrow.png") no-repeat;
   width: 7px;
   height: 5px;
   margin-left: 12px;
@@ -431,7 +431,7 @@ footer {
       li{
       &:first-child {
         height: 173px;
-        background:url("/images/confirmation_bg.jpg") no-repeat;
+        background:url("../images/confirmation_bg.jpg") no-repeat;
         background-size: 145%;
         padding: 40px 0 0 40px;
         box-shadow: 0 3px 4.7px 0.3px rgba(0, 0, 0, 0.24);
@@ -466,7 +466,7 @@ footer {
   border-radius: 50%;
   background-color: white;
   box-shadow: 0 3px 16.9px 1.1px rgba(0, 0, 0, 0.43);
-  background-image: url("/images/profile_nav_ico.png");
+  background-image: url("../images/profile_nav_ico.png");
   background-position: center;
   background-repeat: no-repeat;
   margin-bottom: 24px;
@@ -479,19 +479,19 @@ footer {
     }
 
   .dashboard-nav-ico {
-    background: url("/images/dashboard_nav_ico.png") no-repeat;
+    background: url("../images/dashboard_nav_ico.png") no-repeat;
   }
   .profile-nav-ico {
-    background: url("/images/profile_nav_ico.png") no-repeat;
+    background: url("../images/profile_nav_ico.png") no-repeat;
   }
   .entities-nav-ico {
-    background: url("/images/entity_nav_ico.png") no-repeat;
+    background: url("../images/entity_nav_ico.png") no-repeat;
   }
   .wallet-nav-ico {
-    background: url("/images/wallet_nav_ico.png") no-repeat;
+    background: url("../images/wallet_nav_ico.png") no-repeat;
   }
   .marketplace-nav-ico {
-    background: url("/images/marketplace_nav_ico.png") no-repeat;
+    background: url("../images/marketplace_nav_ico.png") no-repeat;
   }
 }
 
@@ -557,7 +557,7 @@ footer {
       height: 129px;
       border-radius:50%;
       box-shadow: 0 3px 16.9px 1.1px rgba(0, 0, 0, 0.15);
-      background: url("/images/profile-edit-logo-ico.png") no-repeat center;
+      background: url("../images/profile-edit-logo-ico.png") no-repeat center;
 
 
     }
@@ -591,11 +591,11 @@ footer {
           margin: 4px 12px 0 9px;
         }
         .change-pass-ico {
-          background:url("/images/change-pass-ico.png") no-repeat;
+          background:url("../images/change-pass-ico.png") no-repeat;
 
         }
         .deactivate-id-ico {
-          background: url("/images/deactivate-acc-ico.png") no-repeat;
+          background: url("../images/deactivate-acc-ico.png") no-repeat;
         }
       }
   }
@@ -659,7 +659,7 @@ footer {
     }
   }
   .dropdown-form-arrow {
-    background: url("/images/dropdown-form-arrow.png") no-repeat;
+    background: url("../images/dropdown-form-arrow.png") no-repeat;
     width: 6px;
     height:5px;
     margin-top: -17px;
@@ -915,7 +915,7 @@ footer {
     }
   }
   .dropdown-leave--arrow {
-    background: url(/images/dropdown-form-arrow.png) no-repeat;
+    background: url(../images/dropdown-form-arrow.png) no-repeat;
     width: 6px;
     height: 5px;
     margin-top: 12px !important;
@@ -1076,7 +1076,7 @@ footer {
     font-weight: 400;
   }
   .letter-popup {
-    background: url("/images/letter-pop-up.png") no-repeat;
+    background: url("../images/letter-pop-up.png") no-repeat;
     width: 15px;
     height: 13px;
     margin-top: 14px;
@@ -1242,7 +1242,7 @@ footer {
   height: 100%;
   overflow: auto;
   float: left;
-  background: url("/images/confirmation_bg.jpg") no-repeat;
+  background: url("../images/confirmation_bg.jpg") no-repeat;
   background-position: 0;
   background-size: 120% 105%;
 
@@ -1263,12 +1263,12 @@ footer {
     box-shadow: 0 3px 4.7px 0.3px rgba(0, 0, 0, 0.24);
   }
   .user-reg-ico {
-    background: url("/images/first-name-logo.png") no-repeat;
+    background: url("../images/first-name-logo.png") no-repeat;
     width: 12px;
     height: 13px;
   }
   .email-reg-ico {
-    background: url("/images/email-reg-ico.png") no-repeat;
+    background: url("../images/email-reg-ico.png") no-repeat;
     width: 15px;
     height: 13px;
   }
@@ -1346,14 +1346,14 @@ footer {
       }
     }
     .dropdown-country-arrow {
-      background: url("/images/dropdown-form-arrow.png") no-repeat;
+      background: url("../images/dropdown-form-arrow.png") no-repeat;
       width: 6px;
       height:5px;
       margin-top: -35px !important;
       margin-right: -8px;
     }
 .canada-country-ico {
-  background: url("/images/canada-country-ico.png") no-repeat;
+  background: url("../images/canada-country-ico.png") no-repeat;
   width: 18px !important;
   height: 12px;
   margin-top: 9px !important;
@@ -1410,7 +1410,7 @@ footer {
   }
 main {
   margin-top: 50px;
-  background-image:url("/images/bg-lime-left.jpg");
+  background-image:url("../images/bg-lime-left.jpg");
   background-repeat: no-repeat;
   background-position: -25px 430px;
   width: 489px;
@@ -1495,7 +1495,7 @@ main {
   height: 100%;
   overflow: auto;
   float: left;
-  background: url("/images/confirmation_bg.jpg") no-repeat;
+  background: url("../images/confirmation_bg.jpg") no-repeat;
   background-position: 0;
   background-size: 120% 105%;
 
@@ -1594,13 +1594,13 @@ li {
       }
     }
     .social-footer--twitter-ico {
-      background: url("/images/email-social-twitter.png");
+      background: url("../images/email-social-twitter.png");
     }
     .social-footer--fb-ico {
-      background: url("/images/email-social-fb.png");
+      background: url("../images/email-social-fb.png");
     }
     .social-footer--g_plus-ico {
-      background: url("/images/email-g_plus_ico.png");
+      background: url("../images/email-g_plus_ico.png");
     }
 
     .support-footer {
@@ -2002,7 +2002,7 @@ li {
       }
     }
     .dropdown-entity-arrow {
-      background: url("/images/dropdown-form-arrow.png") no-repeat;
+      background: url("../images/dropdown-form-arrow.png") no-repeat;
       width: 6px;
       height:5px;
       margin-top: -12px !important;
@@ -2296,7 +2296,7 @@ li {
       position: relative;
       border-radius: 50%;
       box-shadow: 0 3px 16.9px 1.1px rgba(0, 0, 0, 0.15);
-      background: url("/images/entity-logo.png") no-repeat;
+      background: url("../images/entity-logo.png") no-repeat;
       background-position: center;
 
       .btn-large {
@@ -2347,7 +2347,7 @@ li {
     }
 
     .dropdown-country-arrow {
-      background: url("/images/dropdown-form-arrow.png") no-repeat;
+      background: url("../images/dropdown-form-arrow.png") no-repeat;
       width: 6px;
       height: 5px;
       margin-top: -16px !important;
@@ -2383,7 +2383,7 @@ li {
         transition: 0.35s;
       }
       .canada-country-ico {
-        background: url("/images/canada-country-ico.png") no-repeat;
+        background: url("../images/canada-country-ico.png") no-repeat;
         width: 18px !important;
         height: 12px;
         margin-top: 9px !important;
@@ -2692,7 +2692,7 @@ li {
     }
   }
   .dropdown-form-arrow {
-    background: url("/images/dropdown-form-arrow.png") no-repeat;
+    background: url("../images/dropdown-form-arrow.png") no-repeat;
     width: 6px;
     height: 5px;
     margin-top: -17px;
@@ -2985,7 +2985,7 @@ li {
 
 .view-company-content {
   height: 556px !important;
-  background: url("/images/bg-lime.jpg");
+  background: url("../images/bg-lime.jpg");
   background-repeat: no-repeat;
   background-position: 680px 315px;
   @media (max-width: 500px) {
@@ -3227,12 +3227,12 @@ li {
       border-radius: 50%;
       background-color: white;
       box-shadow: 0 6px 16.9px 1.1px rgba(18, 14, 15, 0.11);
-      background-image: url("/images/user-lvl-ico.png");
+      background-image: url("../images/user-lvl-ico.png");
       background-repeat: no-repeat;
       background-position: center;
       background-size: 25px 30px;
       &.expert {
-        background-image: url("/images/expert-logo.png");
+        background-image: url("../images/expert-logo.png");
       }
     }
     h5 {
@@ -3393,7 +3393,7 @@ li {
     color: $main-color;
   }
   .user-lvl-cirle {
-    background-image: url("/images/active-user-lvl.png");
+    background-image: url("../images/active-user-lvl.png");
   }
   .active-user-lvl-square {
     position: absolute;
@@ -4206,7 +4206,7 @@ li {
     }
   }
   .dropdown-country-arrow {
-    background: url("/images/dropdown-form-arrow.png") no-repeat;
+    background: url("../images/dropdown-form-arrow.png") no-repeat;
     width: 6px;
     height:5px;
     margin-top: -35px !important;
